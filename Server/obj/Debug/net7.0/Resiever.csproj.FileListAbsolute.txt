@@ -1,0 +1,15 @@
+D:\MyStudy\Resiever\Resiever\bin\Debug\net7.0\Resiever.exe
+D:\MyStudy\Resiever\Resiever\bin\Debug\net7.0\Resiever.deps.json
+D:\MyStudy\Resiever\Resiever\bin\Debug\net7.0\Resiever.runtimeconfig.json
+D:\MyStudy\Resiever\Resiever\bin\Debug\net7.0\Resiever.dll
+D:\MyStudy\Resiever\Resiever\bin\Debug\net7.0\Resiever.pdb
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\Resiever.csproj.AssemblyReference.cache
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\Resiever.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\Resiever.AssemblyInfoInputs.cache
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\Resiever.AssemblyInfo.cs
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\Resiever.csproj.CoreCompileInputs.cache
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\Resiever.dll
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\refint\Resiever.dll
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\Resiever.pdb
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\Resiever.genruntimeconfig.cache
+D:\MyStudy\Resiever\Resiever\obj\Debug\net7.0\ref\Resiever.dll

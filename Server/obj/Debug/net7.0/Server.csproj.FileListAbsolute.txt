@@ -1,0 +1,15 @@
+D:\MyStudy\Resiever\Server\bin\Debug\net7.0\Server.exe
+D:\MyStudy\Resiever\Server\bin\Debug\net7.0\Server.deps.json
+D:\MyStudy\Resiever\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+D:\MyStudy\Resiever\Server\bin\Debug\net7.0\Server.dll
+D:\MyStudy\Resiever\Server\bin\Debug\net7.0\Server.pdb
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\Server.dll
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\refint\Server.dll
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\Server.pdb
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+D:\MyStudy\Resiever\Server\obj\Debug\net7.0\ref\Server.dll
